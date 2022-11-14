@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mostmango.github.io/sitemap.xml

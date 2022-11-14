@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "https://mostmango.github.io/",
+    "description": "",
+    "home_page_url": "https://mostmango.github.io",
+    "feed_url": "https://mostmango.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "MostMango"
+    },
+    "items": [
+        {
+            "id": "https://mostmango.github.io/first-page-of-pages.html",
+            "url": "https://mostmango.github.io/first-page-of-pages.html",
+            "title": "first page of pages",
+            "summary": "Hello, World!",
+            "content_html": "<p>Hello, World!</p>\n",
+            "author": {
+                "name": "MostMango"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-14T20:50:12+01:00",
+            "date_modified": "2022-11-14T20:50:12+01:00"
+        }
+    ]
+}
