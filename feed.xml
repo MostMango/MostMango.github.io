@@ -3,12 +3,24 @@
     <title>https://mostmango.github.io/</title>
     <link href="https://mostmango.github.io/feed.xml" rel="self" />
     <link href="https://mostmango.github.io" />
-    <updated>2022-11-14T20:50:12+01:00</updated>
+    <updated>2022-11-14T21:07:11+01:00</updated>
     <author>
         <name>MostMango</name>
     </author>
     <id>https://mostmango.github.io</id>
 
+    <entry>
+        <title>second page of pages</title>
+        <author>
+            <name>MostMango</name>
+        </author>
+        <link href="https://mostmango.github.io/second-page-of-pages.html"/>
+        <id>https://mostmango.github.io/second-page-of-pages.html</id>
+
+        <updated>2022-11-14T21:07:11+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>first page of pages</title>
         <author>
